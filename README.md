@@ -250,6 +250,7 @@ Various resources, such as books, websites and articles, for improving your Swif
 * [Using Swift with Cocoa and Objective-C](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11)
 * [Swift Standard Library Reference](https://developer.apple.com/library/prerelease/ios/documentation/General/Reference/SwiftStandardLibraryReference/)
 * [Learn to Program iOS and OS X with Apple Swift](https://www.kickstarter.com/projects/alanforbes/learn-to-program-ios-and-os-x-with-apple-swift?utm_medium=referral&utm_source=swift.zeef.com%2Frobin.eggenkamp&utm_campaign=ZEEF)
+* [iOS Development with Swift](https://www.manning.com/books/ios-development-with-swift)
 
 ## Swift Videos
 
@@ -257,6 +258,7 @@ Various resources, such as books, websites and articles, for improving your Swif
 * [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - High quality Swift tutorials.
 * [SkipCasts youtube channel](https://www.youtube.com/user/SkipCasts/videos) - Skip Wilson's casts on Swift.
 * [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - Stanford course by Paul Hegarty.
+* [iOS Development with Swift in Motion](https://www.manning.com/livevideo/ios-development-with-swift-lv)
 
 ## Swift Playgrounds
 
